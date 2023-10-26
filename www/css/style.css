@@ -50,6 +50,10 @@
     #time::after {
         content: "秒";
     }
+
+    #remain::after{
+        content: "秒";
+    }
     
     #mycanvas {
         color: #ffffff;
